@@ -1,0 +1,103 @@
+@import "tailwindcss";
+@import "tailwindcss-safe-area";
+
+.hatch-space-root {
+  font-family: "Hiragino Maru Gothic ProN", "Hiragino Sans", system-ui, sans-serif;
+}
+
+@theme {
+  --text-xs: 12px;
+  --text-xs--line-height: 16px;
+  --text-sm: 14px;
+  --text-sm--line-height: 20px;
+  --text-base: 16px;
+  --text-base--line-height: 24px;
+  --text-lg: 18px;
+  --text-lg--line-height: 28px;
+  --text-xl: 20px;
+  --text-xl--line-height: 28px;
+  --text-2xl: 24px;
+  --text-2xl--line-height: 32px;
+  --text-3xl: 30px;
+  --text-3xl--line-height: 36px;
+}
+
+:root {
+  color-scheme: light dark;
+  --bg: #fff8f9;
+  --surface: #ffffff;
+  --surface-alt: #fdf0f3;
+  --text: #3d2c33;
+  --dim: #a08a93;
+  --border: #f3dde3;
+  --accent: #e4709b;
+  --accent-soft: #fbe3ec;
+  --deco-pink: #ff8fb8;
+  --deco-lav: #b9a5e8;
+  --deco-sky: #8ec9e8;
+  --deco-lemon: #f5c94c;
+  --deco-mint: #7fcfae;
+  --bubble-in: #ffffff;
+  --bubble-out: #5dbb63;
+  --chat-bg: #fdeef2;
+  --radius: 18px;
+  --space-surface: var(--surface);
+  --space-surface-alt: var(--surface-alt);
+  --space-muted: var(--dim);
+  --space-border: var(--border);
+  --space-accent: var(--accent);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1d1418;
+    --surface: #2a1d23;
+    --surface-alt: #34242c;
+    --text: #f7e9ee;
+    --dim: #b394a1;
+    --border: #45303a;
+    --accent: #ef8fb4;
+    --accent-soft: #402832;
+    --deco-pink: #ef8fb4;
+    --deco-lav: #a58fd6;
+    --deco-sky: #7fb3d9;
+    --deco-lemon: #d9b45c;
+    --deco-mint: #6fb894;
+    --bubble-in: #34242c;
+    --bubble-out: #3f7d46;
+    --chat-bg: #24181d;
+  }
+}
+
+/* ここあ プロフィールの ちょっと動く動画風アニメーション */
+@keyframes cocoa-bob {
+  0%, 100% { transform: translateY(0) scale(1.02); }
+  50% { transform: translateY(-8px) scale(1.06); }
+}
+@keyframes cocoa-kenburns {
+  0% { transform: scale(1) translateX(0); }
+  100% { transform: scale(1.12) translateX(-1.5%); }
+}
+@keyframes cocoa-float-up {
+  0% { transform: translateY(6px) rotate(-6deg); opacity: 0.55; }
+  50% { transform: translateY(-10px) rotate(10deg); opacity: 1; }
+  100% { transform: translateY(6px) rotate(-6deg); opacity: 0.55; }
+}
+@keyframes cocoa-progress {
+  0% { width: 4%; }
+  100% { width: 100%; }
+}
+@keyframes cocoa-wave-bar {
+  0%, 100% { transform: scaleY(0.45); }
+  50% { transform: scaleY(1); }
+}
+.cocoa-bob { animation: cocoa-bob 2.8s ease-in-out infinite; }
+.cocoa-kenburns { animation: cocoa-kenburns 3.2s ease-out forwards; }
+.cocoa-float-a { animation: cocoa-float-up 2.4s ease-in-out infinite; }
+.cocoa-float-b { animation: cocoa-float-up 3s ease-in-out infinite; animation-delay: 0.5s; }
+.cocoa-float-c { animation: cocoa-float-up 2.7s ease-in-out infinite; animation-delay: 1s; }
+.cocoa-progress-bar { animation: cocoa-progress 8.4s linear infinite; }
+.cocoa-wave-bar { transform-origin: bottom; animation: cocoa-wave-bar 0.9s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .cocoa-bob, .cocoa-kenburns, .cocoa-float-a, .cocoa-float-b, .cocoa-float-c, .cocoa-progress-bar, .cocoa-wave-bar { animation: none !important; }
+}

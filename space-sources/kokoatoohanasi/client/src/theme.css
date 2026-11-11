@@ -1,0 +1,101 @@
+/* Web-font slot: uncomment the line below and put your font there. A web-font
+   @import must come before the Tailwind import — an @import placed after any
+   other rule is a build error, and it is reported against a line number in the
+   expanded Tailwind output, far past the end of this file, so the message
+   cannot point you at the mistake. */
+/* @import url('https://fonts.googleapis.com/css2?family=Your+Font:wght@400..700&display=swap'); */
+@import "tailwindcss";
+@import "tailwindcss-safe-area";
+
+@theme {
+  --text-xs: 12px;
+  --text-xs--line-height: 16px;
+  --text-sm: 14px;
+  --text-sm--line-height: 20px;
+  --text-base: 16px;
+  --text-base--line-height: 24px;
+  --text-lg: 18px;
+  --text-lg--line-height: 28px;
+  --text-xl: 20px;
+  --text-xl--line-height: 28px;
+  --text-2xl: 24px;
+  --text-2xl--line-height: 32px;
+  --text-3xl: 30px;
+  --text-3xl--line-height: 36px;
+  --text-4xl: 36px;
+  --text-4xl--line-height: 40px;
+  --text-5xl: 48px;
+  --text-5xl--line-height: 52px;
+}
+
+:root {
+  color-scheme: light dark;
+  --bg: #fddadf;
+  --surface: #fff7f9;
+  --text: #5b3049;
+  --dim: #a06a85;
+  --border: #f3c3d2;
+  --accent: #e5638c;
+  --radius: 12px;
+  --space-surface: var(--surface);
+  --space-surface-alt: var(--surface);
+  --space-muted: var(--dim);
+  --space-border: var(--border);
+  --space-accent: var(--accent);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #4a3542;
+    --surface: #5d4353;
+    --text: #ffeef5;
+    --dim: #d9aec4;
+    --border: #77586b;
+    --accent: #ff9ec2;
+  }
+}
+
+@keyframes cocoa-sway {
+  0%,
+  35% {
+    transform: translateY(0) rotate(-0.6deg);
+  }
+  50%,
+  85% {
+    transform: translateY(-8px) rotate(0.6deg);
+  }
+  100% {
+    transform: translateY(0) rotate(-0.6deg);
+  }
+}
+
+@keyframes cocoa-bounce {
+  0% {
+    transform: translateY(0) scale(1, 1);
+  }
+  30% {
+    transform: translateY(-26px) scale(1.04, 0.96);
+  }
+  55% {
+    transform: translateY(0) scale(0.95, 1.05);
+  }
+  75% {
+    transform: translateY(-10px) scale(1.01, 0.99);
+  }
+  100% {
+    transform: translateY(0) scale(1, 1);
+  }
+}
+
+@keyframes cocoa-thinking {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.35;
+  }
+  30% {
+    transform: translateY(-4px);
+    opacity: 1;
+  }
+}

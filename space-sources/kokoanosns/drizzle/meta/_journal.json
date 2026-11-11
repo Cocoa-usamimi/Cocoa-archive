@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794107962349,
+      "tag": "0001_initial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1794107962349,
+      "tag": "0002_user_messages_and_app_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1794110506701,
+      "tag": "0003_add_posts_table",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1794112153179,
+      "tag": "0004_add_chat_replies_and_user_posts",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1794205063921,
+      "tag": "0005_add_post_topic_for_dedup",
+      "breakpoints": true
+    }
+  ]
+}

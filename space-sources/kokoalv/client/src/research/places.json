@@ -1,0 +1,1103 @@
+{
+ "local_search": [
+  {
+   "_meta": {
+    "data": {
+     "fbids": [
+      100939338820924,
+      100944205486926,
+      107964971684859,
+      108612985830486,
+      137898039588741,
+      226991640738420,
+      403241406377680,
+      426999526123029,
+      483863457495975,
+      567122651803495,
+      624574609020503,
+      627849151874724,
+      750971836211912,
+      775711580437945,
+      1099124027706112,
+      1158538656453661,
+      1199759614152977,
+      1245422129465452,
+      1371547677344682,
+      1442087936626512,
+      1474677369620994,
+      1603260680509463,
+      2102918409970167,
+      3517620985051239,
+      5275397702544083,
+      9146748848743368
+     ],
+     "message_ids": []
+    },
+    "tool_call_id": "call_01a1c7fff2977473bad38cbc8efbac16"
+   },
+   "results": [
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "1 Chome-9-1 Marunouchi"
+     },
+     "categories": {
+      "108376755907313": 1,
+      "152367304818850": 2,
+      "2500": 0
+     },
+     "latitude": 35.68130226,
+     "links": [
+      {
+       "id": "100939338820924",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/100939338820924"
+      },
+      {
+       "id": "100939338820924",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/100939338820924"
+      }
+     ],
+     "longitude": 139.7669578,
+     "name": "東京駅",
+     "phone_number": "+81332863586",
+     "place_description": "## Information about 東京駅\n東京駅 has a place_id of 1245422129465452\nPrimary Category: transportation service\nSecondary Categories: railroad, local\n\nAddress: 1 Chome-9-1 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.681302, 139.766958\n\nPhone: +81332863586\n\n",
+     "place_id": "1245422129465452"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "丸の内1丁目9-1"
+     },
+     "categories": {
+      "108376755907313": 2,
+      "2500": 1
+     },
+     "latitude": 35.68228488,
+     "links": [
+      {
+       "id": "107964971684859",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/107964971684859"
+      },
+      {
+       "id": "107964971684859",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/107964971684859"
+      }
+     ],
+     "longitude": 139.76611843,
+     "name": "東京駅丸の内地下北口",
+     "place_description": "## Information about 東京駅丸の内地下北口\n東京駅丸の内地下北口 has a place_id of 426999526123029\nPrimary Category: railroad\nSecondary Categories: local\n\nAddress: 丸の内1丁目9-1, 千代田区, 東京都, JP\nExact Location: 35.682285, 139.766118\n\n",
+     "place_id": "426999526123029"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-6701",
+      "region": "東京都",
+      "street_address": "1 Chome-9-1 Marunouchi"
+     },
+     "categories": {
+      "109527622457518": 2,
+      "2500": 1
+     },
+     "latitude": 35.68211817,
+     "links": [
+      {
+       "id": "100944205486926",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/100944205486926"
+      },
+      {
+       "id": "100944205486926",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/100944205486926"
+      }
+     ],
+     "longitude": 139.76915624,
+     "name": "東京駅",
+     "place_description": "## Information about 東京駅\n東京駅 has a place_id of 627849151874724\nPrimary Category: shopping mall\nSecondary Categories: local\n\nAddress: 1 Chome-9-1 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.682118, 139.769156\n\nHours:\nTimezone: Asia/Tokyo\n\nCurrently Open\n\n",
+     "place_id": "627849151874724"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "Marunouchi, 1 Chome−2−9 東京駅"
+     },
+     "categories": {
+      "200027430011994": 2,
+      "2500": 1
+     },
+     "latitude": 35.68189466,
+     "links": [
+      {
+       "id": "403241406377680",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/403241406377680"
+      },
+      {
+       "id": "403241406377680",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/403241406377680"
+      }
+     ],
+     "longitude": 139.76534422,
+     "name": "東京駅丸の内北口 一般車乗降エリア",
+     "place_description": "## Information about 東京駅丸の内北口 一般車乗降エリア\n東京駅丸の内北口 一般車乗降エリア has a place_id of 1199759614152977\nPrimary Category: parking\nSecondary Categories: local\n\nAddress: Marunouchi, 1 Chome−2−9 東京駅, 千代田区, 東京都, JP\nExact Location: 35.681895, 139.765344\n\nHours:\nTimezone: Asia/Tokyo\n\nCurrently Open\n\n",
+     "place_id": "1199759614152977"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "1-chōme-9 Marunouchi"
+     },
+     "categories": {
+      "1301884929841298": 2,
+      "145887745471348": 5,
+      "1609255626032547": 4,
+      "1743528332836314": 1,
+      "2505": 0,
+      "520917194785584": 3
+     },
+     "latitude": 35.68087318,
+     "longitude": 139.76515314,
+     "name": "東京駅丸の内南口",
+     "place_description": "## Information about 東京駅丸の内南口\n東京駅丸の内南口 has a place_id of 1158538656453661\nPrimary Category: train station\nSecondary Categories: railway station, transportation terminal, subway station, bus stop, transit stop\n\nAddress: 1-chōme-9 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.680873, 139.765153\n\n",
+     "place_id": "1158538656453661"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "丸の内2丁目6-2"
+     },
+     "categories": {
+      "197817313562497": 0,
+      "384382644921530": 1
+     },
+     "latitude": 35.67897903,
+     "links": [
+      {
+       "id": "137898039588741",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/137898039588741"
+      },
+      {
+       "id": "137898039588741",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/137898039588741"
+      }
+     ],
+     "longitude": 139.7629159,
+     "name": "三菱一号館美術館",
+     "phone_number": "+81357778600",
+     "place_description": "## Information about 三菱一号館美術館\n三菱一号館美術館 has a place_id of 1099124027706112\nPrimary Category: art museum\nSecondary Categories: museum\n\nAddress: 丸の内2丁目6-2, 千代田区, 東京都, JP\nExact Location: 35.678979, 139.762916\n\nPhone: +81357778600\nWebsite: http://mimt.jp/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 6:00 PM\nTuesday: 10:00 AM - 6:00 PM\nWednesday: 10:00 AM - 8:00 PM\nThursday: 10:00 AM - 8:00 PM\nFriday: 10:00 AM - 8:00 PM\nSaturday: 10:00 AM - 6:00 PM\n\nCurrently Closed\n\n### Description of 三菱一号館美術館\nAI Summary: Red-brick art museum in Marunouchi; the special exhibition on artists gathering in cafes traces late-19th-century Paris through works by Lautrec, Van Gogh and Picasso, showing how cafes sparked new art. The 1894 Josiah Conder building faithfully reconstructed in 2010 is noted for night illumination that is very beautiful, and one visitor said 'The exhibition was amazing, especially Lautrec's artworks.'\n\n\n### Ratings for 三菱一号館美術館\nRating: four and a half stars (4.3)\nBased on 371 reviews\n\nPrice Level: moderate\n\n### Attributes of 三菱一号館美術館\nGood for dates\n\n### What people are saying about 三菱一号館美術館\n- The exhibition was amazing, especially Lautrec's artworks. They were so sophisticated, unique, and fantastic\n- To take what lies within and express it so boldly on canvas. I was drawn to the force and freedom of that act.\n- The museum is wonderful not only for its exhibitions but for the building itself.\n- The space with high ceilings and beautiful windows makes you want to linger forever.\n- The former bank hall has become a stylish cafe, Cafe 1894.\n\n",
+     "place_id": "1099124027706112",
+     "price_level": "MODERATE",
+     "website": "http://mimt.jp/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "2 Chome-6-1 Marunouchi"
+     },
+     "categories": {
+      "197817313562497": 1,
+      "378970035464823": 0,
+      "384382644921530": 2
+     },
+     "latitude": 35.67844991,
+     "links": [
+      {
+       "id": "2102918409970167",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/2102918409970167"
+      },
+      {
+       "id": "2102918409970167",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/2102918409970167"
+      },
+      {
+       "id": "3-GEIW3a0yk9JpI8Tjo6mw",
+       "type": "yelp",
+       "url": "https://www.yelp.com/biz/3-GEIW3a0yk9JpI8Tjo6mw"
+      }
+     ],
+     "longitude": 139.76321636,
+     "name": "三菱一号館美術館 ロートレック作品をモチーフとした大型仮囲い装飾",
+     "phone_number": "+81332127156",
+     "place_description": "## Information about 三菱一号館美術館 ロートレック作品をモチーフとした大型仮囲い装飾\n三菱一号館美術館 ロートレック作品をモチーフとした大型仮囲い装飾 has a place_id of 3517620985051239\nPrimary Category: art museum\nSecondary Categories: museum, modern art museum\n\nAddress: 2 Chome-6-1 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.67845, 139.763216\n\nPhone: +81332127156\nWebsite: https://mimt.jp/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 6:00 PM\nTuesday: 10:00 AM - 6:00 PM\nWednesday: 10:00 AM - 6:00 PM\nThursday: 10:00 AM - 6:00 PM\nFriday: 10:00 AM - 8:00 PM\nSaturday: 10:00 AM - 6:00 PM\n\nCurrently Closed\n\n### Ratings for 三菱一号館美術館 ロートレック作品をモチーフとした大型仮囲い装飾\nRating: four and a half stars (4.5)\nBased on 109 reviews\n\nPrice Level: moderate\n\n",
+     "place_id": "3517620985051239",
+     "price_level": "MODERATE",
+     "website": "https://mimt.jp/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "2 Chome-6-1 Marunouchi"
+     },
+     "categories": {
+      "115090141929327": 2
+     },
+     "latitude": 35.67843676,
+     "longitude": 139.76267642,
+     "name": "三菱一号館美術館の前の中庭",
+     "place_description": "## Information about 三菱一号館美術館の前の中庭\n三菱一号館美術館の前の中庭 has a place_id of 1371547677344682\nPrimary Category: park\n\nAddress: 2 Chome-6-1 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.678437, 139.762676\n\n",
+     "place_id": "1371547677344682"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "Marunouchi, 1 Chome−９ 東京駅"
+     },
+     "categories": {
+      "1603848937182758": 2,
+      "197817313562497": 0,
+      "244600818962350": 1
+     },
+     "latitude": 35.67859992,
+     "links": [
+      {
+       "id": "226991640738420",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/226991640738420"
+      },
+      {
+       "id": "226991640738420",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/226991640738420"
+      },
+      {
+       "id": "8JvEwMuN-Vd3fBSdln1rYA",
+       "type": "yelp",
+       "url": "https://www.yelp.com/biz/8JvEwMuN-Vd3fBSdln1rYA"
+      }
+     ],
+     "longitude": 139.76332526,
+     "name": "三菱一号館 歴史資料室",
+     "phone_number": "+81357778600",
+     "place_description": "## Information about 三菱一号館 歴史資料室\n三菱一号館 歴史資料室 has a place_id of 5275397702544083\nPrimary Category: archive\nSecondary Categories: history museum, museum\n\nAddress: Marunouchi, 1 Chome−９ 東京駅, 千代田区, 東京都, JP\nExact Location: 35.6786, 139.763325\n\nPhone: +81357778600\nWebsite: https://mimt.jp/museum/history/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 6:00 PM\nTuesday: 10:00 AM - 6:00 PM\nWednesday: 10:00 AM - 6:00 PM\nThursday: 10:00 AM - 6:00 PM\nFriday: 10:00 AM - 6:00 PM\nSaturday: 10:00 AM - 6:00 PM\n\nCurrently Closed\n\n",
+     "place_id": "5275397702544083",
+     "website": "https://mimt.jp/museum/history/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "2 Chome-6-2 Marunouchi"
+     },
+     "categories": {
+      "1254797572235213": 1,
+      "197817313562497": 2,
+      "209889829023118": 0,
+      "384382644921530": 3
+     },
+     "description": "The is an art museum in Tokyo's Marunouchi district. Construction was completed in 2009 and the museum opened April 6, 2010. The museum includes approximately 800m2 of exhibition space, spread over 20 rooms, throughout the building's 6000m2 floorplan.The museum focuses on 19th-century Western artwork. Included in the museum's own artwork is the Maurice Joyant collection, a group of over 200 works by Henri Toulouse-Lautrec. The theme of the opening exhibition will be \"Manet and Modern Paris\", in cooperation with Musée d'Orsay. An opening commemoration exhibition and logo design were announced in 2008.The building is a faithful recreation of the original Mitsubishi Ichigokan which stood on the same location. Originally completed in 1894 and designed by British architect Josiah Conder, the building was torn down in 1968. The construction company responsible for the current incarnation used portions of the original plans and materials used at the time of the original construction. The new building, built out of red brick and cast concrete, has three stories above ground and two stories below.The Mitsubishi Ichigokan Museum is the fourth major art museum in central Tokyo. Others include: Bridgestone Museum of ArtIdemitsu Museum of ArtsMitsui Memorial Museum",
+     "latitude": 35.67850105,
+     "links": [
+      {
+       "id": "108612985830486",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/108612985830486"
+      },
+      {
+       "id": "108612985830486",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/108612985830486"
+      },
+      {
+       "id": "1604472",
+       "type": "tripadvisor",
+       "url": "https://www.tripadvisor.com/1604472"
+      }
+     ],
+     "longitude": 139.76328611,
+     "name": "Mitsubishi Ichigokan Museum",
+     "phone_number": "+81357778600",
+     "place_description": "## Information about Mitsubishi Ichigokan Museum\nMitsubishi Ichigokan Museum has a place_id of 750971836211912\nPrimary Category: art museum\nSecondary Categories: museum, tourist attraction, landmark\n\nAddress: 2 Chome-6-2 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.678501, 139.763286\n\nPhone: +81357778600\nWebsite: http://mimt.jp/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 6:00 PM\nTuesday: 10:00 AM - 6:00 PM\nWednesday: 10:00 AM - 6:00 PM\nThursday: 10:00 AM - 6:00 PM\nFriday: 10:00 AM - 8:00 PM\nSaturday: 10:00 AM - 6:00 PM\n\nCurrently Closed\n\n### Description of Mitsubishi Ichigokan Museum\nAI Summary: Red-brick revival museum bringing 19th-century Paris to Tokyo; the recreation of the 1894 Mitsubishi Ichigokan by architect Josiah Conder holds 800 square meters across 20 rooms, focusing on late 19th-century Western art including over 200 Toulouse-Lautrec works from the Maurice Joyant collection. Reviewers praise the details and European vibe in Marunouchi, five minutes from Tokyo Station, calling it \"Highly recommended for anyone who loves art, architecture, or history!\" and noting Cafe 1894 and the garden add to the visit.\n\nThis is how this place describes themself: The is an art museum in Tokyo's Marunouchi district. Construction was completed in 2009 and the museum opened April 6, 2010. The museum includes approximately 800m2 of exhibition space, spread over 20 rooms, throughout the building's 6000m2 floorplan.The museum focuses on 19th-century Western artwork. Included in the museum's own artwork is the Maurice Joyant collection, a group of over 200 works by Henri Toulouse-Lautrec. The theme of the opening exhibition will be \"Manet and Modern Paris\", in cooperation with Musée d'Orsay. An opening commemoration exhibition and logo design were announced in 2008.The building is a faithful recreation of the original Mitsubishi Ichigokan which stood on the same location. Originally completed in 1894 and designed by British architect Josiah Conder, the building was torn down in 1968. The construction company responsible for the current incarnation used portions of the original plans and materials used at the time of the original construction. The new building, built out of red brick and cast concrete, has three stories above ground and two stories below.The Mitsubishi Ichigokan Museum is the fourth major art museum in central Tokyo. Others include: Bridgestone Museum of ArtIdemitsu Museum of ArtsMitsui Memorial Museum\n\n### Ratings for Mitsubishi Ichigokan Museum\nRating: five stars (4.9)\nBased on 8 reviews\n\nPrice Level: expensive\n\n### What people are saying about Mitsubishi Ichigokan Museum\n- A little Parisian magic in the heart of Tokyo.\n- Classic building of Mitsubishi Ichigo kan Museum in the midst of the business district near Tokyo Station.\n- Surrounded by vivid posters and artworks, I found myself imagining the energy of that creative era.\n- From Lautrec’s bold posters to Ramon Casas, Mucha, and Modigliani, the exhibition showed how conversation, nightlife, advertising, and art once grew from the same table.\n- A red-brick whisper in a city of glass,\n\n",
+     "place_id": "750971836211912",
+     "price_level": "EXPENSIVE",
+     "website": "http://mimt.jp/"
+    }
+   ]
+  },
+  {
+   "_meta": {
+    "data": {
+     "fbids": [
+      106696281384191,
+      113466174442423,
+      282517492385195,
+      382821828779514,
+      444511797399168,
+      519733088114686,
+      527674117276837,
+      567122651803495,
+      624574609020503,
+      626784235629435,
+      633060291373573,
+      736284411873792,
+      775711580437945,
+      1059681799773567,
+      1442087936626512,
+      1474677369620994,
+      1537372447124960,
+      1603260680509463,
+      25286480020965950
+     ],
+     "message_ids": []
+    },
+    "tool_call_id": "call_01a1c8000dd3717786a78a6c1b137195"
+   },
+   "results": [
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0002",
+      "region": "東京都",
+      "street_address": "皇居外苑3-1"
+     },
+     "categories": {
+      "110207655727714": 0,
+      "115090141929327": 1,
+      "210857662260088": 2
+     },
+     "latitude": 35.683286,
+     "links": [
+      {
+       "id": "106696281384191",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/106696281384191"
+      },
+      {
+       "id": "106696281384191",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/106696281384191"
+      },
+      {
+       "id": "HIuhP7HBtsrjGFC8325xNg",
+       "type": "yelp",
+       "url": "https://www.yelp.com/biz/HIuhP7HBtsrjGFC8325xNg"
+      }
+     ],
+     "longitude": 139.761343,
+     "name": "和田倉噴水公園",
+     "phone_number": "+81332130095",
+     "place_description": "## Information about 和田倉噴水公園\n和田倉噴水公園 has a place_id of 624574609020503\nPrimary Category: statue fountain\nSecondary Categories: park, public square\n\nAddress: 皇居外苑3-1, 千代田区, 東京都, JP\nExact Location: 35.683286, 139.761343\n\nPhone: +81332130095\nWebsite: http://www.env.go.jp/garden/kokyogaien/index.html\n\nHours:\nTimezone: Asia/Tokyo\n\nCurrently Open\n\n### Description of 和田倉噴水公園\nAI Summary: Quiet green oasis in the Imperial Palace Outer Gardens; the broad park centers on a large fountain and well-tended flower beds, a site loved since 1961 that takes on a fantastical glow after sunset. Close to Tokyo Station it can be crowded even on weekdays, and one visitor said to 'Recharge your mind in a quiet green oasis' while watching the water.\n\n\n### Ratings for 和田倉噴水公園\nRating: four stars (4.1)\nBased on 17 reviews\n\n### Attributes of 和田倉噴水公園\nGood for dates\n\n### What people are saying about 和田倉噴水公園\n- Large windows offer beautiful views of the surrounding greenery, creating a bright and relaxing atmosphere.\n- Recharge your mind in a quiet green oasis.\n- Located in the Imperial Palace Outer Gardens, the interior was sophisticated and a truly wonderful space.\n- It was magical feeling the mist on my skin\n- The swan by the waterside at night looked lonely, but it was very beautiful\n\n",
+     "place_id": "624574609020503",
+     "website": "http://www.env.go.jp/garden/kokyogaien/index.html"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0002",
+      "region": "東京都",
+      "street_address": "Kokyogaien, 3−1 和田倉噴水公園"
+     },
+     "categories": {
+      "1384896128224370": 2
+     },
+     "latitude": 35.68297639,
+     "longitude": 139.76100076,
+     "name": "和田倉公衆御手洗",
+     "phone_number": "+81332315509",
+     "place_description": "## Information about 和田倉公衆御手洗\n和田倉公衆御手洗 has a place_id of 1442087936626512\nPrimary Category: public toilet\n\nAddress: Kokyogaien, 3−1 和田倉噴水公園, 千代田区, 東京都, JP\nExact Location: 35.682976, 139.761001\n\nPhone: +81332315509\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 9:00 AM - 4:00 PM\nMonday: 9:00 AM - 4:00 PM\nTuesday: 9:00 AM - 4:00 PM\nWednesday: 9:00 AM - 4:00 PM\nThursday: 9:00 AM - 4:00 PM\nFriday: 9:00 AM - 4:00 PM\nSaturday: 9:00 AM - 4:00 PM\n\nCurrently Open\n\n",
+     "place_id": "1442087936626512"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0002",
+      "region": "東京都",
+      "street_address": "3-1 Kokyogaien"
+     },
+     "categories": {
+      "115090141929327": 1,
+      "1254797572235213": 0,
+      "210857662260088": 3,
+      "923358744476601": 2
+     },
+     "latitude": 35.68338853,
+     "links": [
+      {
+       "id": "113466174442423",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/113466174442423"
+      },
+      {
+       "id": "113466174442423",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/113466174442423"
+      },
+      {
+       "id": "1373711",
+       "type": "tripadvisor",
+       "url": "https://www.tripadvisor.com/1373711"
+      }
+     ],
+     "longitude": 139.76083206,
+     "name": "Wadakura Fountain Park",
+     "phone_number": "+81332130095",
+     "place_description": "## Information about Wadakura Fountain Park\nWadakura Fountain Park has a place_id of 1603260680509463\nPrimary Category: statue fountain\nSecondary Categories: public garden, park, tourist attraction\n\nAddress: 3-1 Kokyogaien, 千代田区, 東京都, JP\nExact Location: 35.683389, 139.760832\n\nPhone: +81332130095\nWebsite: https://fng.or.jp/koukyo/place/historical/ruins-gaien/wadakurafountainpark\n\nHours:\nTimezone: Asia/Tokyo\n\nCurrently Open\n\n### Description of Wadakura Fountain Park\nAI Summary: Quiet fountain oasis in the Imperial Palace Outer Garden; built to commemorate imperial weddings in 1961 and 1995, its triple fountain by designer Tamura Tsuyoshi forms chrysanthemum blossoms and buds that glow champagne gold at night. Reviewers call it \"Especially pretty when illuminated\" and note its calm, uncrowded oasis feel among flowerbeds and reflecting pools, with free admission and the Wadakura Bridge and Wadakura Free Rest Spot for a pause in Chiyoda.\n\n\nPrice Level: moderate\n\n### What people are saying about Wadakura Fountain Park\n- Where nature's calm meets the city's hustle. A moment of peace in the heart of Tokyo.\n- Can you see the water forming the shape of a wedding cake? It’s so elegant and beautiful!\n- The fountain reaches a maximum height of 8.5 meters, and you can enjoy its beautiful light-up display here.\n- In autumn, the park gets a nice mix of yellows, oranges, and reds.\n- As dreamy as it looks …and one of the most beautiful Starbucks locations…\n\n",
+     "place_id": "1603260680509463",
+     "price_level": "MODERATE",
+     "website": "https://fng.or.jp/koukyo/place/historical/ruins-gaien/wadakurafountainpark"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-7001",
+      "region": "東京都",
+      "street_address": "丸の内2丁目7-2"
+     },
+     "categories": {
+      "1721970931353243": 1,
+      "273819889375819": 2
+     },
+     "latitude": 35.679807,
+     "links": [
+      {
+       "id": "382821828779514",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/382821828779514"
+      },
+      {
+       "id": "382821828779514",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/382821828779514"
+      }
+     ],
+     "longitude": 139.764709,
+     "name": "東京 ロビー Kitte 丸の内",
+     "phone_number": "+81362560853",
+     "place_description": "## Information about 東京 ロビー Kitte 丸の内\n東京 ロビー Kitte 丸の内 has a place_id of 775711580437945\nPrimary Category: restaurant\nSecondary Categories: yoshoku restaurant\n\nAddress: 丸の内2丁目7-2, 千代田区, 東京都, JP\nExact Location: 35.679807, 139.764709\n\nPhone: +81362560853\n\n### Description of 東京 ロビー Kitte 丸の内\nAI Summary: Japanese-Western restaurant inside KITTE overlooking Tokyo Station and the Marunouchi skyline; vegetable and fish-centered plates include sashimi that one reviewer called 'the sashimi is delicious' alongside sake. Private rooms with tatami mats and sunken kotatsu tables plus counter seats frame the station view, and reservations, English and kids menus and stroller access are available.\n\n\n### Selection of Offerings at 東京 ロビー Kitte 丸の内\nA5ランク黒毛和牛ご飯, 濃厚つけ麺, 海鮮丼, 焼き魚の一夜干し, お茶漬け\n\n### What people are saying about 東京 ロビー Kitte 丸の内\n- The vending machines themselves are covered with adorable Chiikawa designs.\n- This year's tree is a little more fantastical.\n- Spending coffee time while gazing at the illuminated red-brick Tokyo Station building and the night view of the high-rises was very pleasant.\n- You can compare three kinds of rice cooked in different modes and get free refills!\n- The atrium is utilized beautifully and was very pretty.\n\n",
+     "place_id": "775711580437945"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-7001",
+      "region": "東京都",
+      "street_address": "2 Chome-7-2 Marunouchi"
+     },
+     "categories": {
+      "187153754656815": 0,
+      "187827497907070": 1
+     },
+     "latitude": 35.67978549,
+     "longitude": 139.76484666,
+     "name": "治一郎 Kitte 丸の内店",
+     "phone_number": "+81365512566",
+     "place_description": "## Information about 治一郎 Kitte 丸の内店\n治一郎 Kitte 丸の内店 has a place_id of 567122651803495\nPrimary Category: bakery\nSecondary Categories: dessert restaurant\n\nAddress: 2 Chome-7-2 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.679785, 139.764847\n\nPhone: +81365512566\nWebsite: https://jiichiro.com/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 11:00 AM - 8:30 PM\nMonday: 11:00 AM - 8:30 PM\nTuesday: 11:00 AM - 8:30 PM\nWednesday: 11:00 AM - 8:30 PM\nThursday: 11:00 AM - 8:30 PM\nFriday: 11:00 AM - 8:30 PM\nSaturday: 11:00 AM - 8:30 PM\n\nCurrently Closed\n\nPrice Level: inexpensive\n\n",
+     "place_id": "567122651803495",
+     "price_level": "CHEAP",
+     "website": "https://jiichiro.com/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-7090",
+      "region": "東京都",
+      "street_address": "丸の内2丁目7-2"
+     },
+     "categories": {
+      "109527622457518": 2,
+      "200600219953504": 0,
+      "2608825322635584": 1
+     },
+     "description": "いろいろなヒト・モノ・コトとの出会いをつなげる「ＫＩＴＴＥ（キッテ）」。日本の中心・東京丸の内で、人と人、街と街、時代と時代を結び、たくさんの「ワクワク」をお届けします。",
+     "latitude": 35.67976698,
+     "links": [
+      {
+       "id": "527674117276837",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/527674117276837"
+      },
+      {
+       "id": "527674117276837",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/527674117276837"
+      },
+      {
+       "id": "kittemarunouchi",
+       "type": "ig_account",
+       "url": "https://www.instagram.com/kittemarunouchi"
+      }
+     ],
+     "longitude": 139.76492816,
+     "name": "KITTE",
+     "phone_number": "+81332162811",
+     "place_description": "## Information about KITTE\nKITTE has a place_id of 1474677369620994\nPrimary Category: shopping mall\nSecondary Categories: shopping center, shopping retail\n\nAddress: 丸の内2丁目7-2, 千代田区, 東京都, JP\nExact Location: 35.679767, 139.764928\n\nPhone: +81332162811\nWebsite: http://jptower-kitte.jp/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 10:00 PM\nMonday: 10:00 AM - 11:00 PM\nTuesday: 10:00 AM - 11:00 PM\nWednesday: 10:00 AM - 11:00 PM\nThursday: 10:00 AM - 11:00 PM\nFriday: 10:00 AM - 11:00 PM\nSaturday: 10:00 AM - 11:00 PM\n\nCurrently Closed\n\n### Description of KITTE\nAI Summary: Central Marunouchi shopping complex built to connect people, streets and eras and deliver excitement; its 2nd- and 3rd-floor INTERMEDIATHEQUE, run with Japan Post and the University of Tokyo, presents academic specimens in a retro elegant atmosphere that visitors say is not boring at all. One guest summed up the outlook as 'nice view,' while the building mixes shopping with art and learning.\n\nThis is how this place describes themself: いろいろなヒト・モノ・コトとの出会いをつなげる「ＫＩＴＴＥ（キッテ）」。日本の中心・東京丸の内で、人と人、街と街、時代と時代を結び、たくさんの「ワクワク」をお届けします。\n\n### Ratings for KITTE\nRating: four stars (3.8)\nBased on 277 reviews\n\nPrice Level: expensive\n\n### Selection of Offerings at KITTE\nクリスマスツリー, 鯛塩らぁ麺, 鶏soba, 昆布水つけ麺, A5ランク黒毛和牛ご飯\n\n### Attributes of KITTE\nLive performance, Payment method accepts nfc\n\n### What people are saying about KITTE\n- There is a free observation area on the 6th floor with a beautiful view of the illuminated buildings at night\n- The rooftop garden with a view of Tokyo Station is highly recommended!\n- Even though it's a free museum, it's breathtaking\n- You can enjoy just looking at the building, not to mention shopping and dining\n- In the center is a huge triangular atrium with a glass roof\n\n",
+     "place_id": "1474677369620994",
+     "price_level": "EXPENSIVE",
+     "website": "http://jptower-kitte.jp/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "2 Chome-7-2 Marunouchi"
+     },
+     "categories": {
+      "109527622457518": 2,
+      "1254797572235213": 0,
+      "2608825322635584": 1
+     },
+     "latitude": 35.67991576,
+     "links": [
+      {
+       "id": "4006147",
+       "type": "tripadvisor",
+       "url": "https://www.tripadvisor.com/4006147"
+      },
+      {
+       "id": "Xlb4zbMpDpoXIabIFv1a_g",
+       "type": "yelp",
+       "url": "https://www.yelp.com/biz/Xlb4zbMpDpoXIabIFv1a_g"
+      }
+     ],
+     "longitude": 139.7649918,
+     "name": "Kitte Marunouchi",
+     "phone_number": "+81332162811",
+     "place_description": "## Information about Kitte Marunouchi\nKitte Marunouchi has a place_id of 736284411873792\nPrimary Category: shopping mall\nSecondary Categories: shopping center, tourist attraction\n\nAddress: 2 Chome-7-2 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.679916, 139.764992\n\nPhone: +81332162811\nWebsite: https://marunouchi.jp-kitte.jp/\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 11:00 AM - 9:00 PM\nMonday: 11:00 AM - 9:00 PM\nTuesday: 11:00 AM - 9:00 PM\nWednesday: 11:00 AM - 9:00 PM\nThursday: 11:00 AM - 9:00 PM\nFriday: 11:00 AM - 9:00 PM\nSaturday: 11:00 AM - 9:00 PM\n\nCurrently Closed\n\nPrice Level: moderate\n\n",
+     "place_id": "736284411873792",
+     "price_level": "MODERATE",
+     "website": "https://marunouchi.jp-kitte.jp/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "2 Chome-7-2 Marunouchi"
+     },
+     "categories": {
+      "139745066094977": 1,
+      "1698627513779470": 0,
+      "492376511113483": 2
+     },
+     "latitude": 35.67970983,
+     "links": [
+      {
+       "id": "282517492385195",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/282517492385195"
+      },
+      {
+       "id": "282517492385195",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/282517492385195"
+      }
+     ],
+     "longitude": 139.76503597,
+     "name": "アトリウム",
+     "place_description": "## Information about アトリウム\nアトリウム has a place_id of 626784235629435\nPrimary Category: event space\nSecondary Categories: business center, wedding venue\n\nAddress: 2 Chome-7-2 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.67971, 139.765036\n\nWebsite: https://marunouchi.jp-kitte.jp/\n\nHours:\nTimezone: Asia/Tokyo\n\nCurrently Open\n\n",
+     "place_id": "626784235629435",
+     "website": "https://marunouchi.jp-kitte.jp/"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "千代田区",
+      "postal_code": "100-0005",
+      "region": "東京都",
+      "street_address": "1 Chome-6-4 Marunouchi"
+     },
+     "categories": {
+      "133436743388217": 0,
+      "197384240287028": 3,
+      "197817313562497": 1,
+      "384382644921530": 2
+     },
+     "latitude": 35.6818516,
+     "links": [
+      {
+       "id": "519733088114686",
+       "type": "fb_page",
+       "url": "https://www.facebook.com/519733088114686"
+      },
+      {
+       "id": "519733088114686",
+       "type": "ig_explore_place",
+       "url": "https://www.instagram.com/explore/locations/519733088114686"
+      },
+      {
+       "id": "13793778",
+       "type": "tripadvisor",
+       "url": "https://www.tripadvisor.com/13793778"
+      }
+     ],
+     "longitude": 139.76375301,
+     "name": "Gyoko-dori Underground Gallery",
+     "phone_number": "+81332177111",
+     "place_description": "## Information about Gyoko-dori Underground Gallery\nGyoko-dori Underground Gallery has a place_id of 444511797399168\nPrimary Category: art gallery\nSecondary Categories: art museum, museum, arts entertainment\n\nAddress: 1 Chome-6-4 Marunouchi, 千代田区, 東京都, JP\nExact Location: 35.681852, 139.763753\n\nPhone: +81332177111\nWebsite: https://www.marunouchispacemedia.jp/e/spaces/5\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 10:00 AM - 6:00 PM\nTuesday: 10:00 AM - 6:00 PM\nWednesday: 10:00 AM - 6:00 PM\nThursday: 10:00 AM - 6:00 PM\nFriday: 10:00 AM - 8:00 PM\nSaturday: 10:00 AM - 6:00 PM\n\nCurrently Closed\n\n",
+     "place_id": "444511797399168",
+     "website": "https://www.marunouchispacemedia.jp/e/spaces/5"
+    },
+    {
+     "address": {
+      "country": "JP",
+      "locality": "町田市",
+      "postal_code": "194-0013",
+      "region": "東京都",
+      "street_address": "Haramachida, 6 Chome−11−17 永楽苑ビル 1F"
+     },
+     "categories": {
+      "113264772433008": 1,
+      "199035016778342": 0
+     },
+     "latitude": 35.54383648,
+     "longitude": 139.44606078,
+     "name": "美味だれ焼き鳥 鳥幸レンガ通り一番街店",
+     "phone_number": "+81428508089",
+     "place_description": "## Information about 美味だれ焼き鳥 鳥幸レンガ通り一番街店\n美味だれ焼き鳥 鳥幸レンガ通り一番街店 has a place_id of 1059681799773567\nPrimary Category: yakitori restaurant\nSecondary Categories: japanese restaurant\n\nAddress: Haramachida, 6 Chome−11−17 永楽苑ビル 1F, 町田市, 東京都, JP\nExact Location: 35.543836, 139.446061\n\nPhone: +81428508089\nWebsite: https://www.m-renga-1.com/shop/detail.php?iid=3\n\nHours:\nTimezone: Asia/Tokyo\nSunday: 12:00 PM - 11:00 PM\nMonday: 4:00 PM - 11:30 PM\nTuesday: 4:00 PM - 11:30 PM\nWednesday: 4:00 PM - 11:30 PM\nThursday: 4:00 PM - 11:30 PM\nFriday: 4:00 PM - 11:30 PM\nSaturday: 12:00 PM - 11:30 PM\n\nCurrently Closed\n\n",
+     "place_id": "1059681799773567",
+     "website": "https://www.m-renga-1.com/shop/detail.php?iid=3"
+    }
+   ]
+  }
+ ],
+ "details": {
+  "1099124027706112": {
+   "details": {
+    "address": {
+     "city": "千代田区",
+     "country": "JP",
+     "postalcode": "100-0005",
+     "stateprovince": "東京都",
+     "streetaddress": "丸の内2丁目6-2"
+    },
+    "categories": [
+     {
+      "category_id": "384382644921530",
+      "display_name": "Art Museum",
+      "top_level_category_name": "Attraction"
+     },
+     {
+      "category_id": "197817313562497",
+      "display_name": "Museum",
+      "top_level_category_name": "Attraction"
+     }
+    ],
+    "is_permanently_closed": false,
+    "is_temporarily_closed": false,
+    "links": [
+     {
+      "id": "137898039588741",
+      "type": "fb_page",
+      "url": "https://www.facebook.com/137898039588741"
+     },
+     {
+      "id": "137898039588741",
+      "type": "ig_explore_place",
+      "url": "https://www.instagram.com/explore/locations/137898039588741"
+     },
+     {
+      "id": "mimt.jp",
+      "type": "website",
+      "url": "http://mimt.jp/"
+     }
+    ],
+    "location": {
+     "latitude": 35.67897903,
+     "longitude": 139.7629159
+    },
+    "name": "三菱一号館美術館",
+    "opening_hours": [
+     {
+      "close_time": "1800",
+      "day_of_week": "SUNDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "1800",
+      "day_of_week": "TUESDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2000",
+      "day_of_week": "WEDNESDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2000",
+      "day_of_week": "THURSDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2000",
+      "day_of_week": "FRIDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "1800",
+      "day_of_week": "SATURDAY",
+      "open_time": "1000"
+     }
+    ],
+    "opening_status": "CLOSED",
+    "phone_numbers": {
+     "display_number": "+81 3-5777-8600",
+     "e164_number": "+81357778600"
+    },
+    "price_level": 2,
+    "rating": {
+     "avg_local_rating": 0,
+     "avg_rating": 4.3018867924528,
+     "num_local_rating": 30,
+     "num_rating": 371
+    },
+    "rich_offerings": []
+   }
+  },
+  "1245422129465452": {
+   "details": {
+    "address": {
+     "city": "千代田区",
+     "country": "JP",
+     "postalcode": "100-0005",
+     "stateprovince": "東京都",
+     "streetaddress": "1 Chome-9-1 Marunouchi"
+    },
+    "categories": [
+     {
+      "category_id": "152367304818850",
+      "display_name": "Transportation Service",
+      "top_level_category_name": "NotAvailable"
+     },
+     {
+      "category_id": "108376755907313",
+      "display_name": "Railroad Company",
+      "top_level_category_name": "NotAvailable"
+     },
+     {
+      "category_id": "2500",
+      "display_name": "Local Business",
+      "top_level_category_name": "NotAvailable"
+     }
+    ],
+    "is_permanently_closed": false,
+    "is_temporarily_closed": false,
+    "links": [
+     {
+      "id": "100939338820924",
+      "type": "fb_page",
+      "url": "https://www.facebook.com/100939338820924"
+     },
+     {
+      "id": "100939338820924",
+      "type": "ig_explore_place",
+      "url": "https://www.instagram.com/explore/locations/100939338820924"
+     }
+    ],
+    "location": {
+     "latitude": 35.68130226,
+     "longitude": 139.7669578
+    },
+    "name": "東京駅",
+    "opening_hours": [],
+    "opening_status": "UNKNOWN",
+    "phone_numbers": {
+     "display_number": "+81 3-3286-3586",
+     "e164_number": "+81332863586"
+    },
+    "price_level": null,
+    "rating": null,
+    "rich_offerings": []
+   }
+  },
+  "1474677369620994": {
+   "details": {
+    "address": {
+     "city": "千代田区",
+     "country": "JP",
+     "postalcode": "100-7090",
+     "stateprovince": "東京都",
+     "streetaddress": "丸の内2丁目7-2"
+    },
+    "categories": [
+     {
+      "category_id": "109527622457518",
+      "display_name": "Shopping Mall",
+      "top_level_category_name": "NotAvailable"
+     },
+     {
+      "category_id": "2608825322635584",
+      "display_name": "Shopping Center",
+      "top_level_category_name": "NotAvailable"
+     },
+     {
+      "category_id": "200600219953504",
+      "display_name": "Shopping & Retail",
+      "top_level_category_name": "NotAvailable"
+     }
+    ],
+    "is_permanently_closed": false,
+    "is_temporarily_closed": false,
+    "links": [
+     {
+      "id": "527674117276837",
+      "type": "fb_page",
+      "url": "https://www.facebook.com/527674117276837"
+     },
+     {
+      "id": "527674117276837",
+      "type": "ig_explore_place",
+      "url": "https://www.instagram.com/explore/locations/527674117276837"
+     },
+     {
+      "id": "kittemarunouchi",
+      "type": "ig_account",
+      "url": "https://www.instagram.com/kittemarunouchi"
+     },
+     {
+      "id": "jptower-kitte.jp",
+      "type": "website",
+      "url": "http://jptower-kitte.jp/"
+     }
+    ],
+    "location": {
+     "latitude": 35.67976698,
+     "longitude": 139.76492816
+    },
+    "name": "KITTE",
+    "opening_hours": [
+     {
+      "close_time": "2200",
+      "day_of_week": "SUNDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "MONDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "TUESDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "WEDNESDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "THURSDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "FRIDAY",
+      "open_time": "1000"
+     },
+     {
+      "close_time": "2300",
+      "day_of_week": "SATURDAY",
+      "open_time": "1000"
+     }
+    ],
+    "opening_status": "CLOSED",
+    "phone_numbers": {
+     "display_number": "+81 3-3216-2811",
+     "e164_number": "+81332162811"
+    },
+    "price_level": 3,
+    "rating": {
+     "avg_local_rating": 0,
+     "avg_rating": 3.841155234657,
+     "num_local_rating": 38,
+     "num_rating": 277
+    },
+    "rich_offerings": [
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 288
+      },
+      "name": "クリスマスツリー"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 160
+      },
+      "name": "鯛塩らぁ麺"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 176
+      },
+      "name": "鶏soba"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 125
+      },
+      "name": "昆布水つけ麺"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 277
+      },
+      "name": "A5ランク黒毛和牛ご飯"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 314
+      },
+      "name": "平打ちざるそば"
+     },
+     {
+      "data": {
+       "confidence": 0.994456,
+       "knownfor": 68
+      },
+      "name": "ビフテキ"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 77
+      },
+      "name": "バームクーヘン"
+     },
+     {
+      "data": {
+       "confidence": 0.9604,
+       "knownfor": 64
+      },
+      "name": "チャーシュー"
+     },
+     {
+      "data": {
+       "confidence": 0.96,
+       "knownfor": 25
+      },
+      "name": "ソフトクリーム"
+     }
+    ]
+   }
+  },
+  "624574609020503": {
+   "details": {
+    "address": {
+     "city": "千代田区",
+     "country": "JP",
+     "postalcode": "100-0002",
+     "stateprovince": "東京都",
+     "streetaddress": "皇居外苑3-1"
+    },
+    "categories": [
+     {
+      "category_id": "210857662260088",
+      "display_name": "Statue & Fountain",
+      "top_level_category_name": "Attraction"
+     },
+     {
+      "category_id": "115090141929327",
+      "display_name": "Park",
+      "top_level_category_name": "Park"
+     },
+     {
+      "category_id": "110207655727714",
+      "display_name": "Public Square / Plaza",
+      "top_level_category_name": "Park"
+     }
+    ],
+    "is_permanently_closed": false,
+    "is_temporarily_closed": false,
+    "links": [
+     {
+      "id": "106696281384191",
+      "type": "fb_page",
+      "url": "https://www.facebook.com/106696281384191"
+     },
+     {
+      "id": "106696281384191",
+      "type": "ig_explore_place",
+      "url": "https://www.instagram.com/explore/locations/106696281384191"
+     },
+     {
+      "id": "HIuhP7HBtsrjGFC8325xNg",
+      "type": "yelp",
+      "url": "https://www.yelp.com/biz/HIuhP7HBtsrjGFC8325xNg"
+     },
+     {
+      "id": "env.go.jp",
+      "type": "website",
+      "url": "http://www.env.go.jp/garden/kokyogaien/index.html"
+     }
+    ],
+    "location": {
+     "latitude": 35.683286,
+     "longitude": 139.761343
+    },
+    "name": "和田倉噴水公園",
+    "opening_hours": [
+     {
+      "close_time": null,
+      "day_of_week": "SUNDAY",
+      "open_time": "0000"
+     }
+    ],
+    "opening_status": "OPEN",
+    "phone_numbers": {
+     "display_number": "+81 3-3213-0095",
+     "e164_number": "+81332130095"
+    },
+    "price_level": null,
+    "rating": {
+     "avg_local_rating": null,
+     "avg_rating": 4.0588235294118,
+     "num_local_rating": 0,
+     "num_rating": 17
+    },
+    "rich_offerings": []
+   }
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [
+    {
+      "action": "refreshDailyPosts",
+      "args": {
+        "slot": "morning"
+      },
+      "id": "space-kokoanosns-weather-morning",
+      "schedule": "daily 07:10 Asia/Tokyo (flexible)"
+    },
+    {
+      "action": "refreshDailyPosts",
+      "args": {
+        "slot": "noon"
+      },
+      "id": "space-kokoanosns-trend-noon",
+      "schedule": "daily 13:00 Asia/Tokyo (flexible)"
+    },
+    {
+      "action": "refreshDailyPosts",
+      "args": {
+        "slot": "evening"
+      },
+      "id": "space-kokoanosns-spot-evening",
+      "schedule": "daily 18:00 Asia/Tokyo (flexible)"
+    },
+    {
+      "action": "refreshDiaryContext",
+      "args": {},
+      "id": "space-kokoanosns-diary-context-sync",
+      "schedule": "daily 09:40 Asia/Tokyo"
+    },
+    {
+      "action": "refreshDiaryContext",
+      "args": {},
+      "id": "space-kokoanosns-diary-context-sync-pm",
+      "schedule": "daily 15:10 Asia/Tokyo"
+    }
+  ],
+  "name": "ここらて♡るーむ",
+  "platformVersion": 28,
+  "runtime": "typescript",
+  "slug": "kokoanosns"
+}
